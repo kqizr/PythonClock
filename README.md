@@ -1,1 +1,1 @@
-just read the title.
+simple python clock made with using Bro Code's Youtube Tutorial.
